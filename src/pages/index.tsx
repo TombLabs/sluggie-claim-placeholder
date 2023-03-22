@@ -8,17 +8,14 @@ const Home: NextPage = () => {
       <div className="main">
         <Head>
           <title>GIB BUCKET - SLUGGIES</title>
-          <meta name="title" content="GIB BUCKET - SLUGGIES" />
-          <meta
-            name="description"
-            content="Claim your mfin' Slug Bucket, clown."
-          />
+          <meta name="title" content="GIB BUCKET" />
+          <meta name="description" content="Claim your mfin' Slug Bucket" />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://claim.sluggies.art" />
-          <meta property="og:title" content="GIB BUCKET - SLUGGIES" />
+          <meta property="og:title" content="GIB BUCKET" />
           <meta
             property="og:description"
-            content="Claim your mfin' Slug Bucket, clown"
+            content="Claim your mfin' Slug Bucket"
           />
           <meta
             property="og:image"
@@ -28,11 +25,11 @@ const Home: NextPage = () => {
           <meta property="twitter:url" content="https://claim.sluggies.art" />
           <meta
             property="twitter:title"
-            content="Claim your mfin' Slug Bucket, clown"
+            content="Claim your mfin' Slug Bucket"
           />
           <meta
             property="twitter:description"
-            content="Claim your mfin' Slug Bucket, clown"
+            content="Claim your mfin' Slug Bucket"
           />
           <meta
             property="twitter:image"
